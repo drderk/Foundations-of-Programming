@@ -1,8 +1,6 @@
 ## Welcome to Perdomo Software
 
-You can use the [editor on GitHub](https://github.com/drderk/Foundations-of-Programming/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am Derek Perdomo, a freshman at the University of Florida planning to major in Computer Science in the College of Engineering. I have created a variety of projects ranging from a simple calculator to a JailBreak video game. The projects can be found below:
 
 ### Markdown
 
